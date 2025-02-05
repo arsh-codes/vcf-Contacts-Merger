@@ -1,5 +1,5 @@
 # VCF Contact Merger
-This Node.js program reads a VCF (vCard) file containing contact information, merges contacts with duplicate phone numbers, and outputs a new VCF file with unique contacts. It also provides warnings for contacts that do not have any phone numbers. While Google Contacts already performs merging and fixing of duplicate contacts, it primarily operates on contact names rather than contact numbers.
+This Node.js program reads a VCF (vCard) file containing contact information, merges contacts with duplicate phone numbers, and outputs a new VCF file with unique contacts. It also provides warnings for contacts that do not have any phone numbers.
 
 ## Features
 -   Reads a VCF file and parses the contacts.
